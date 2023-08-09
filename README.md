@@ -2,7 +2,6 @@
 
 Efficiently manage and organize your company and employee data with the Company and Employee Data Management System. Upload Excel files containing company and employee information, and watch as the system processes and stores the data seamlessly in a MySQL database. Easily view and manage data through an intuitive web interface.
 
-![App Screenshot](screenshot.png)
 
 ## Key Features
 
